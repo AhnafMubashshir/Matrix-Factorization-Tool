@@ -1,0 +1,378 @@
+# depslib dependency file v1.0
+1644950061 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\determinent.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644951064 d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\header.h
+	<bits/stdc++.h>
+
+1644950154 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\error.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950999 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\initialization_for_inverse_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950416 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\inverse_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950590 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\multiply.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950895 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\random.cpp
+	<bits/stdc++.h>
+	"constants.h"
+	"header.h"
+
+1644950871 d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\constants.h
+	<bits/stdc++.h>
+
+1644951067 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\sd.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950724 source:d:\1. study metarials\3rd smester\spl-1(temp)\spl-1(demo)\transpose.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649600115 source:d:\1. study metarials\3rd smester\spl-1\lib\determinent.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\error.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1644950999 source:d:\1. study metarials\3rd smester\spl-1\lib\initialization_for_inverse_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649606417 source:d:\1. study metarials\3rd smester\spl-1\lib\inverse_matrix.cpp
+	"header.h"
+
+1645004461 source:d:\1. study metarials\3rd smester\spl-1\lib\multiply.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1645004599 source:d:\1. study metarials\3rd smester\spl-1\lib\random.cpp
+	<bits/stdc++.h>
+	"constants.h"
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\sd.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1645004689 source:d:\1. study metarials\3rd smester\spl-1\lib\transpose.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649600454 source:d:\1. study metarials\3rd smester\spl-1\main.cpp
+	"header.h"
+
+1645004241 source:d:\1. study metarials\3rd smester\spl-1\lib\inverse_matrix_initializer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\matrix_normalizer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1645004702 d:\1. study metarials\3rd smester\spl-1\head\header.h
+	<bits/stdc++.h>
+
+1644950871 d:\1. study metarials\3rd smester\spl-1\head\constants.h
+	<bits/stdc++.h>
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\gaussian_initializer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649605700 source:d:\1. study metarials\3rd smester\spl-1\lib\sub_matrix_initializer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\multiply_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\random_number.cpp
+	<bits/stdc++.h>
+	"constants.h"
+	"header.h"
+
+1649590899 source:d:\1. study metarials\3rd smester\spl-1\lib\transpose_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649606444 d:\1. study metarials\3rd smester\spl-1\headers\header.h
+	<bits/stdc++.h>
+	"constants.h"
+
+1649588365 d:\1. study metarials\3rd smester\spl-1\headers\constants.h
+	<bits/stdc++.h>
+
+1649591329 source:d:\1. study metarials\3rd smester\spl-1\lib\addition_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\substract_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\elementwise_divide_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\elementwise_multiply_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\multiplicative_update.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1646237595 source:d:\1. study metarials\3rd smester\spl-1\lib\print_mat.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588365 source:d:\1. study metarials\3rd smester\spl-1\lib\copy_mat.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588364 source:d:\1. study metarials\3rd smester\spl-1\lib\print_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649588364 source:d:\1. study metarials\3rd smester\spl-1\lib\hadamard.cpp
+	"header.h"
+
+1649558143 d:\1. study metarials\3rd smester\spl-1\headers\variables.h
+	<bits/stdc++.h>
+	"constants.h"
+
+1649590805 source:d:\1. study metarials\3rd smester\spl-1\actions\matrix_factorization.cpp
+	"header.h"
+
+1649606417 source:d:\1. study metarials\3rd smester\spl-1\actions\matrix_multiplication.cpp
+	"header.h"
+
+1649590805 source:d:\1. study metarials\3rd smester\spl-1\actions\matrix_addition.cpp
+	"header.h"
+
+1649590805 source:d:\1. study metarials\3rd smester\spl-1\actions\matrix_subtraction.cpp
+	"header.h"
+
+1649590863 source:d:\1. study metarials\3rd smester\spl-1\actions\transpose_matrix.cpp
+	"header.h"
+
+1649597263 source:d:\1. study metarials\3rd smester\spl-1\actions\determinant.cpp
+	"header.h"
+
+1649606444 source:d:\1. study metarials\3rd smester\spl-1\actions\inverse_matrix.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/actions/Matrix_Addition.cpp
+	"header.h"
+
+1649607019 /home/a2s/Documents/Spl/SPL-1-main/headers/header.h
+	<bits/stdc++.h>
+	"constants.h"
+
+1649607019 /home/a2s/Documents/Spl/SPL-1-main/headers/constants.h
+	<bits/stdc++.h>
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/actions/Matrix_Factorization.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/actions/Matrix_Multiplication.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/actions/Matrix_Subtraction.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/actions/Transpose_Matrix.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/addition_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/copy_mat.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/determinent.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/elementwise_divide_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/elementwise_multiply_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/error.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/gaussian_initializer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/hadamard.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/inverse_matrix.cpp
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/matrix_normalizer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/multiplicative_update.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/multiply_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/print_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/random_number.cpp
+	<bits/stdc++.h>
+	"constants.h"
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/sd.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/sub_matrix_initializer.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/substract_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/lib/transpose_matrix.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1649607019 source:/home/a2s/Documents/Spl/SPL-1-main/main.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\matrix_addition.cpp
+	"header.h"
+
+1653862276 d:\spl\spl-1\headers\header.h
+	<bits/stdc++.h>
+	<algorithm>
+	"constants.h"
+
+1653679115 d:\spl\spl-1\headers\constants.h
+	<bits/stdc++.h>
+
+1653905152 source:d:\spl\spl-1\actions\matrix_factorization.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\matrix_multiplication.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\matrix_subtraction.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\transpose_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\addition_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\copy_mat.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\determinent.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\elementwise_divide_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\elementwise_multiply_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\error.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\gaussian_initializer.cpp
+	"header.h"
+
+1653592267 source:d:\spl\spl-1\lib\hadamard.cpp
+	"header.h"
+
+1653495238 source:d:\spl\spl-1\lib\inverse_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\matrix_normalizer.cpp
+	"header.h"
+
+1653587391 source:d:\spl\spl-1\lib\multiplicative_update.cpp
+	<bits/stdc++.h>
+	"header.h"
+
+1653862900 source:d:\spl\spl-1\lib\multiply_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\print_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\random_number.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\sd.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\sub_matrix_initializer.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\substract_matrix.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\transpose_matrix.cpp
+	"header.h"
+
+1653730066 source:d:\spl\spl-1\main.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\determinant.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\inverse_matrix.cpp
+	"header.h"
+
+1653906650 source:d:\spl\spl-1\actions\solve_linear_equation.cpp
+	"header.h"
+
+1653733448 source:d:\spl\spl-1\lib\gauss_seidel.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\make_abs_mat.cpp
+	"header.h"
+
+1653821343 source:d:\spl\spl-1\lib\multiplicative_update_for_low_colrow.cpp
+	"header.h"
+
+1653669064 source:d:\spl\spl-1\lib\multiplicative_update_for_high_colrow.cpp
+	"header.h"
+
+1653729442 source:d:\spl\spl-1\actions\multiplication_of_chain_matrix.cpp
+	"header.h"
+

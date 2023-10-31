@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SPL-1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SPL-1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="headers" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SPL-1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="actions/Determinant.cpp" />
+		<Unit filename="actions/Inverse_Matrix.cpp" />
+		<Unit filename="actions/Matrix_Addition.cpp" />
+		<Unit filename="actions/Matrix_Factorization.cpp" />
+		<Unit filename="actions/Matrix_Multiplication.cpp" />
+		<Unit filename="actions/Matrix_Subtraction.cpp" />
+		<Unit filename="actions/Solve_Linear_Equation.cpp" />
+		<Unit filename="actions/Transpose_Matrix.cpp" />
+		<Unit filename="headers/constants.h" />
+		<Unit filename="headers/header.h" />
+		<Unit filename="lib/addition_matrix.cpp" />
+		<Unit filename="lib/copy_mat.cpp" />
+		<Unit filename="lib/determinent.cpp" />
+		<Unit filename="lib/elementwise_divide_matrix.cpp" />
+		<Unit filename="lib/elementwise_multiply_matrix.cpp" />
+		<Unit filename="lib/error.cpp" />
+		<Unit filename="lib/gauss_seidel.cpp" />
+		<Unit filename="lib/gaussian_initializer.cpp" />
+		<Unit filename="lib/hadamard.cpp" />
+		<Unit filename="lib/inverse_matrix.cpp" />
+		<Unit filename="lib/make_abs_mat.cpp" />
+		<Unit filename="lib/matrix_normalizer.cpp" />
+		<Unit filename="lib/multiplicative_update_for_high_colrow.cpp" />
+		<Unit filename="lib/multiplicative_update_for_low_colrow.cpp" />
+		<Unit filename="lib/multiply_matrix.cpp" />
+		<Unit filename="lib/print_matrix.cpp" />
+		<Unit filename="lib/random_number.cpp" />
+		<Unit filename="lib/sd.cpp" />
+		<Unit filename="lib/sub_matrix_initializer.cpp" />
+		<Unit filename="lib/substract_matrix.cpp" />
+		<Unit filename="lib/transpose_matrix.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,10 @@
+#include "header.h"
+
+void gaussian_initializer(double **mat, int row, int col)
+{
+    for(int i=0;i<row;i++){
+        for(int j=0;j<col;j++){
+            mat[i][j]=random_number();
+        }
+    }
+}
